@@ -7,4 +7,6 @@ After completing this website, my understanding of basic html and css skills has
 
 ##Link
 
+https://brady-hash.github.io/Professional-Portfolio/index.html
+
 
